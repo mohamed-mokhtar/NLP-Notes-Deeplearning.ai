@@ -14,7 +14,9 @@ I have included its labs in the first folder C01 directory in the repository it 
 2. [Prerequisites](#Prerequisite)
 3. [COURSE 1](#COURSE01)
 4. [COURSE 2](#COURSE02)
-X. [Acknowledgement](#ACKNOWLEDGEMENT)
+5. [Acknowledgement](#ACKNOWLEDGEMENT)
+6. [Authors](#AUTHORS)
+
 ## Overview
 Natural Language Processing (NLP) uses algorithms to understand and manipulate human language. This technology is one of the most broadly applied areas of machine learning. As AI continues to expand, so will the demand for professionals skilled at building models that analyze speech and language, uncover contextual patterns, and produce insights from text and audio.
 
@@ -29,5 +31,6 @@ Natural Language Processing (NLP) uses algorithms to understand and manipulate h
 ## ACKNOWLEDGEMENT
 This Specialization is designed and taught by two experts in NLP, machine learning, and deep learning. Younes Bensouda Mourri is an Instructor of AI at Stanford University who also helped build the Deep Learning Specialization. Łukasz Kaiser is a Staff Research Scientist at Google Brain and the co-author of Tensorflow, the Tensor2Tensor and Trax libraries, and the Transformer paper.
 Many thanks to those people.  
-Authors  
+
+## AUTHORS
 1- [MOKHTAR](https://github.com/mohamed-mokhtar)
