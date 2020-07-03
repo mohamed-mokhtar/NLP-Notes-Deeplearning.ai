@@ -41,7 +41,7 @@ Body of text called corpus
 <img src="https://render.githubusercontent.com/render/math?math=\large V: total\:\:words\:\:in\:\:the\:\:corpus">
 </center>
 
-## Labs for week 1
-1- Lecture notebook: Building the vocabulary
-2- Lecture notebook: Candidates from edits
-3- Programming assignment Auto correct
+## Labs for week 1  
+1- Lecture notebook: Building the vocabulary   
+2- Lecture notebook: Candidates from edits  
+3- Programming assignment Auto correct  
