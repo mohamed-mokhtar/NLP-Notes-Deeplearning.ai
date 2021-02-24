@@ -34,4 +34,4 @@ This Specialization is designed and taught by two experts in NLP, machine learni
 Many thanks to those people.  
 
 ## AUTHORS
-1- [MOKHTAR](https://github.com/mohamed-mokhtar)
+[MOKHTAR](https://github.com/rrrokhtar)
