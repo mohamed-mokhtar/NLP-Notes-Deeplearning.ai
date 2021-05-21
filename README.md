@@ -1,4 +1,5 @@
 # NLP-Notes-Deeplearning.ai
+# minor change to check it up
 My own notes For Natural Language Processing Specialization by deeplearning.ai [VISIT!](https://www.coursera.org/specializations/natural-language-processing)  
 It will contain also another resources for NLP aka BIG-NLP  
 Hello there.  
